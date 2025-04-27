@@ -1,0 +1,4 @@
+
+x=5;
+Draw Circle(10,rouge)
+if (x==5);
