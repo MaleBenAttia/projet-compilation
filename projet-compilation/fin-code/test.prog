@@ -1,0 +1,23 @@
+
+x = 5;
+y = 3;
+
+z = x * y + 2;
+print z;
+
+if (z > 10) {
+    print 1;
+} else {
+    print 0;
+}
+
+Draw Circle(x, rouge);
+
+  
+Draw Rectangle(3, bleu);
+
+i = 1;  
+while (i <= 4) {
+    Draw Triangle(5, vert);  
+    i = i + 1;
+}
